@@ -1,8 +1,8 @@
 # haskell-card-game
 
-Author: Declan Dempsey
-Date: 27th May 2023
-Purpose: This program plays the role of a guesser and an answerer in a card guessing game.
+Author: Declan Dempsey\
+Date: 27th May 2023\
+Purpose: This program plays the role of a guesser and an answerer in a card guessing game.\
 
 # Description:
 The following program contains the code for both the answerer and guesser 
